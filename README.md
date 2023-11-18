@@ -13,6 +13,10 @@ Recursos do aplicativo web To-Do List
 - [x] Marcar todas as tarefas como ativas/concluídas
 - [x] Remova todas as tarefas concluídas
 
+## Captura de tela
+
+![](./public/result.png)
+
 ## Stack
 
 | Tecnologia | Descrição              |
@@ -32,6 +36,12 @@ Você precisará de um terminal com node + npm instalado para compilar e constru
 2. [NPM](https://www.npmjs.com/)
 
 ## Comandos
+
+Instalar as dependências do projeto
+
+```bash
+npm install
+```
 
 Rodar a aplicação em modo desenvolvimento (Vite)
 
